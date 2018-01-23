@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spider-demo
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: wukk
+Implementation-Vendor-Id: spider-demo
+Build-Jdk: 1.8.0_66
+Implementation-URL: http://projects.spring.io/spring-boot/com.exmaple/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
